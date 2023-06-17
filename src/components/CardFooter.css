@@ -1,0 +1,12 @@
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: grey whitesmoke;
+    cursor: pointer;
+  }
+  
+  .card-footer button {
+    margin: 0 5px; /* Adjust the margin as needed */
+  }
+  
